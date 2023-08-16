@@ -1,3 +1,7 @@
+#Fatec - Faculdade de Tecnologia "Shunji Nishimura" 
+#Laboratorio de Big Data em Agricultura
+#Professor: Maurício Duarte
+#Aluno: Gabriel Costa Paião
 # encoding:utf-8
 
 def ler_fasta(arquivo):
